@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "myCRAN"]
 	path = myCRAN
 	url = https://github.com/cran/myCRAN
-	shallow = true
-	registered = true
 [submodule "SherlockHolmes"]
 	path = SherlockHolmes
 	url = https://github.com/cran/SherlockHolmes
-	shallow = true
-	registered = true
 [submodule "textBoxPlacement"]
 	path = textBoxPlacement
 	url = https://github.com/cran/textBoxPlacement
-	shallow = true
-	registered = true
 [submodule "timeLineGraphics"]
 	path = timeLineGraphics
 	url = https://github.com/cran/timeLineGraphics
-	shallow = true
-	registered = true
