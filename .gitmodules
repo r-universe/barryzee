@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "NoviceDeveloperResources"]
+	path = NoviceDeveloperResources
+	url = https://github.com/cran/NoviceDeveloperResources
 [submodule "SherlockHolmes"]
 	path = SherlockHolmes
 	url = https://github.com/cran/SherlockHolmes
