@@ -5,6 +5,9 @@
 [submodule "NoviceDeveloperResources"]
 	path = NoviceDeveloperResources
 	url = https://github.com/cran/NoviceDeveloperResources
+[submodule "NoviceDeveloperResources2"]
+	path = NoviceDeveloperResources2
+	url = https://github.com/cran/NoviceDeveloperResources2
 [submodule "SherlockHolmes"]
 	path = SherlockHolmes
 	url = https://github.com/cran/SherlockHolmes
