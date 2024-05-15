@@ -11,6 +11,9 @@
 [submodule "SherlockHolmes"]
 	path = SherlockHolmes
 	url = https://github.com/cran/SherlockHolmes
+[submodule "clickableImageMap"]
+	path = clickableImageMap
+	url = https://github.com/cran/clickableImageMap
 [submodule "foodwebWrapper"]
 	path = foodwebWrapper
 	url = https://github.com/cran/foodwebWrapper
