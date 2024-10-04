@@ -14,6 +14,9 @@
 [submodule "clickableImageMap"]
 	path = clickableImageMap
 	url = https://github.com/cran/clickableImageMap
+[submodule "conditionalProbNspades"]
+	path = conditionalProbNspades
+	url = https://github.com/cran/conditionalProbNspades
 [submodule "foodwebWrapper"]
 	path = foodwebWrapper
 	url = https://github.com/cran/foodwebWrapper
