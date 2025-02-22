@@ -26,6 +26,9 @@
 [submodule "myCRAN"]
 	path = myCRAN
 	url = https://github.com/cran/myCRAN
+[submodule "runExamplesWrapper"]
+	path = runExamplesWrapper
+	url = https://github.com/cran/runExamplesWrapper
 [submodule "textBoxPlacement"]
 	path = textBoxPlacement
 	url = https://github.com/cran/textBoxPlacement
