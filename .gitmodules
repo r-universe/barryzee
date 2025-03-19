@@ -23,6 +23,9 @@
 [submodule "foodwebWrapper"]
 	path = foodwebWrapper
 	url = https://github.com/cran/foodwebWrapper
+[submodule "minimalistGODB"]
+	path = minimalistGODB
+	url = https://github.com/cran/minimalistGODB
 [submodule "myCRAN"]
 	path = myCRAN
 	url = https://github.com/cran/myCRAN
