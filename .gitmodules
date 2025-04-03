@@ -5,6 +5,9 @@
 [submodule "GoMiner"]
 	path = GoMiner
 	url = https://github.com/cran/GoMiner
+[submodule "HTGM"]
+	path = HTGM
+	url = https://github.com/cran/HTGM
 [submodule "NoviceDeveloperResources"]
 	path = NoviceDeveloperResources
 	url = https://github.com/cran/NoviceDeveloperResources
