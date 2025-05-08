@@ -38,6 +38,9 @@
 [submodule "myCRAN"]
 	path = myCRAN
 	url = https://github.com/cran/myCRAN
+[submodule "randomGODB"]
+	path = randomGODB
+	url = https://github.com/cran/randomGODB
 [submodule "runExamplesWrapper"]
 	path = runExamplesWrapper
 	url = https://github.com/cran/runExamplesWrapper
