@@ -50,3 +50,6 @@
 [submodule "timeLineGraphics"]
 	path = timeLineGraphics
 	url = https://github.com/cran/timeLineGraphics
+[submodule "vprint"]
+	path = vprint
+	url = https://github.com/cran/vprint
