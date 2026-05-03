@@ -14,6 +14,9 @@
 [submodule "HTGM3D"]
 	path = HTGM3D
 	url = https://github.com/cran/HTGM3D
+[submodule "HTGM4D"]
+	path = HTGM4D
+	url = https://github.com/cran/HTGM4D
 [submodule "NoviceDeveloperResources"]
 	path = NoviceDeveloperResources
 	url = https://github.com/cran/NoviceDeveloperResources
