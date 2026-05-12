@@ -47,6 +47,9 @@
 [submodule "randomGODB"]
 	path = randomGODB
 	url = https://github.com/cran/randomGODB
+[submodule "rankPlayedInference"]
+	path = rankPlayedInference
+	url = https://github.com/cran/rankPlayedInference
 [submodule "runExamplesWrapper"]
 	path = runExamplesWrapper
 	url = https://github.com/cran/runExamplesWrapper
