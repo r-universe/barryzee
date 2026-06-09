@@ -26,12 +26,18 @@
 [submodule "SherlockHolmes"]
 	path = SherlockHolmes
 	url = https://github.com/cran/SherlockHolmes
+[submodule "autoLibLoad"]
+	path = autoLibLoad
+	url = https://github.com/cran/autoLibLoad
 [submodule "clickableImageMap"]
 	path = clickableImageMap
 	url = https://github.com/cran/clickableImageMap
 [submodule "conditionalProbNspades"]
 	path = conditionalProbNspades
 	url = https://github.com/cran/conditionalProbNspades
+[submodule "consolidatePacks"]
+	path = consolidatePacks
+	url = https://github.com/cran/consolidatePacks
 [submodule "evenBreak"]
 	path = evenBreak
 	url = https://github.com/cran/evenBreak
