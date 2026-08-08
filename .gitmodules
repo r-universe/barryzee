@@ -50,6 +50,9 @@
 [submodule "myCRAN"]
 	path = myCRAN
 	url = https://github.com/cran/myCRAN
+[submodule "packageRankWrapperDriver"]
+	path = packageRankWrapperDriver
+	url = https://github.com/cran/packageRankWrapperDriver
 [submodule "randomGODB"]
 	path = randomGODB
 	url = https://github.com/cran/randomGODB
