@@ -44,6 +44,9 @@
 [submodule "foodwebWrapper"]
 	path = foodwebWrapper
 	url = https://github.com/cran/foodwebWrapper
+[submodule "installationDriver"]
+	path = installationDriver
+	url = https://github.com/cran/installationDriver
 [submodule "minimalistGODB"]
 	path = minimalistGODB
 	url = https://github.com/cran/minimalistGODB
